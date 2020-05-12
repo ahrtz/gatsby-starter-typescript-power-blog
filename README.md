@@ -39,17 +39,7 @@ gatsby new my_blog https://github.com/mhadaily/gatsby-starter-typescript-power-b
 - Automatic support for Google Tag Manager
 - Netlify deploy ready
 
-#### Desktop
 
-<img src="https://raw.githubusercontent.com/mhadaily/gatsby-starter-typescript-power-blog/master/desktop.png">
-
-#### Dark Mode
-
-<img src="https://raw.githubusercontent.com/mhadaily/gatsby-starter-typescript-power-blog/master/desktop-dark.png">
-
-#### Mobile
-
-<img src="https://raw.githubusercontent.com/mhadaily/gatsby-starter-typescript-power-blog/master/mobile.png" width="300px">
 
 ### Keywords
 

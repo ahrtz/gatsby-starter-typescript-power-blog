@@ -69,7 +69,7 @@ export default ({ data }: PageProps) => {
               </h1>
               <p>메인은 Python 다른것도 조금씩 하고 있는중</p>
               <Link to="/contact">
-                <Button big={true}>
+                <Button small={true}>
                   <svg
                     width="1792"
                     height="1792"
@@ -82,7 +82,7 @@ export default ({ data }: PageProps) => {
                 </Button>
               </Link>
               <Link to="/blog">
-                <Button big={true}>
+                <Button small={true}>
                   <svg
                     width="1792"
                     height="1792"

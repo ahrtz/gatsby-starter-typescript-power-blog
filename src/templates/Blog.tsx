@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import { Layout, Article, Wrapper, SectionTitle, Header, Content, Pagination } from '../components';
 import { Helmet } from 'react-helmet';
+// import { Disqus } from '../components/disqus'
 import config from '../../config/SiteConfig';
 import Data from '../models/Data';
 
